@@ -1,7 +1,7 @@
 # STARS-Scope-Profiles
 Config Files and Associated Radar Video Maps to be used in DGSCOPE by K2FC
 
-There will be a sector configuration file for every TRACON in the United States organized by each facility's ID code. To find an ID code go to https://123atc.com/facilities. 
+There will be a sector configuration file for every TRACON in the United States organized by each facility's ID code. To find an ID code go to https://123atc.com/facilities. Some Airports do not have dedicated TRACONs but still have radar data and will be located under TRACABs.
 
 Each folder of a TRACON will include the following files:
 - (FACILITY ID).xml = The configuration file preset with the radar information and homepoint to be used on DGSCOPE.
