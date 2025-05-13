@@ -1,5 +1,31 @@
 T75 = St. Louis Area including KSTL, KSUS, KALN, KCPS, KPIA (Level 9)
 
+Position Logon Identifiers
+
+Name                      FREQ          Logon ID        Tag
+T75 North Feeder          132.125       1J              J   (Prim.) 
+T75 South Feeder          121.020       1Q              Q
+T75 Arr. North            124.250       1N              N
+T75 Arr. South            126.550       1R              R
+T75 Dep. North            119.150       1E              E   (Prim.)
+T75 Dep. South            128.100       1W              W
+T75 Low West              126.500       1D              D   (Prim.)
+T75 Low East              123.700       1K              K
+T75 Scott Low             124.075       1Z              Z
+Springfield Radar         126.150       1S              S
+Peoria Radar              125.800       1P              P
+Bloomington Radar         128.725       1B              B
+STL Local S.              118.550       1T              T   (Prim.) 
+STL Local N.              120.050       1U              U
+STL Local W.              132.475       1V              V
+SUS Local                 124.750       11              1
+ALN Local                 126.000       12              2 
+CPS Local                 119.925       13              3
+SAFB Local                128.250       14              4 
+SPI Local                 121.300       17              7
+PIA Local                 124.000       16              6
+
+
 VIDEO MAP LIST (Mnemonic)
 0 = Northwest Flow Landing 30L/30R (W 30L/R)
 1 = Southeast Flow Landing (E 12L/R)

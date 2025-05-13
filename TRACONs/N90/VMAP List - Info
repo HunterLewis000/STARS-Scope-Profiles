@@ -1,1 +1,34 @@
 N90 = New York TRACON, New York (Level 12)
+
+Position Logon Identifiers
+
+Name                      FREQ          Logon ID        Tag
+N90 LGA EMPYR             127.300       1D              D
+N90 LGA Final Vector      134.900       1F              F
+N90 LGA Departure         120.400       1L              L   (Prim.) 
+N90 LGA HAARP             120.800       1V              V   (Prim.)
+N90 LGA NOBBI             126.400       1X              X
+N90 LGA NYACK             120.550       1Y              Y
+LGA Local                 118.700       1I              T
+N90 JFK Final Vector      132.400       2A              A
+N90 JFK CAMRN             128.125       2G              G
+N90 JFK Departure         135.900       2J              J   (Prim.)
+N90 JFK ROBER             125.700       2K              K   (Prim.)
+N90 JFK ROBER Sat.        118.400       2S              S
+JFK Local                 119.100       2W              T 
+N90 EWR North Arr.        120.150       4A              A
+N90 EWR METRO             132.800       4H              H
+N90 EWR Final Vector      125.500       4Q              Q
+N90 EWR Departure         119.200       4N              N   (Prim.) 
+N90 EWR Yardley           128.550       4P              P   (Prim.) 
+N90 EWR MUGZY             127.600       4U              U
+N90 EWR ZEEBO             123.775       4S              S
+EWR Local                 118.300       4Z              T
+N90 ISP BEADS H.          125.975       3B              B
+N90 ISP Calverton         118.000       3E              E
+N90 ISP Islip             120.050       3H              H   (Prim.)
+N90 ISP LOVES             124.075       3I              I   
+N90 ISP BEADS L.          118.950       3N              N 
+N90 ISP SEALL             133.100       3R              R
+N90 ISP VIKKY             128.625       3Z              Z
+ISP Local                 119.300       3C              T
