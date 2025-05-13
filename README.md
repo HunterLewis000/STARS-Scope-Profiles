@@ -19,6 +19,7 @@ Installation and Usage Instructions:
 6. Navigate to "File", "Import", "From GeoJSON" and then upload the (FACILITY ID VIDMAP).geojson
 7. After a few seconds, the table should populate with maps. Save and close the screen.
 8. The DCB should now show maps in the first few slots. Click to toggle visibilty.
-9. "Ctrl + S" once you have loaded videomaps so that is saves your preferences for the future.  
+9. "Ctrl + S" once you have loaded videomaps so that is saves your preferences for the future.
+10. "F12" will popup "SIGN ON" in the text line, then type preferred Logon ID found in the "VMAP List-Info" text document and hit enter to tag up the associated aircraft. 
 
 If you have any problems regarding the videomaps, feel free to comment with an issue.  
