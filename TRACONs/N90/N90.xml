@@ -530,9 +530,7 @@
 			<X>0</X>
 			<Y>0</Y>
 		</StatusAreaLocation>
-		<DisplayedMaps>
-			<int>0</int>
-		</DisplayedMaps>
+		<DisplayedMaps />
 		<RangeRingsDisplayed>false</RangeRingsDisplayed>
 		<RangeRingLocation>
 			<Latitude>40.705827</Latitude>
@@ -590,33 +588,33 @@
 			<int>6</int>
 			<int>7</int>
 			<int>8</int>
+			<int>9</int>
+			<int>10</int>
+			<int>11</int>
+			<int>12</int>
+			<int>13</int>
+			<int>14</int>
+			<int>15</int>
+			<int>16</int>
+			<int>17</int>
+			<int>18</int>
+			<int>19</int>
 			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
-			<int>20</int>
+			<int>21</int>
+			<int>22</int>
+			<int>23</int>
+			<int>24</int>
+			<int>25</int>
+			<int>26</int>
+			<int>27</int>
+			<int>28</int>
+			<int>29</int>
+			<int>30</int>
+			<int>31</int>
+			<int>32</int>
+			<int>33</int>
+			<int>34</int>
+			<int>35</int>
 		</DCBMapList>
 	</TCP>
 </RadarWindow>
