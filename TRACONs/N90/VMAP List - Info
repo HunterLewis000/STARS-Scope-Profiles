@@ -32,3 +32,23 @@ N90 ISP BEADS L.          118.950       3N              N
 N90 ISP SEALL             133.100       3R              R
 N90 ISP VIKKY             128.625       3Z              Z
 ISP Local                 119.300       3C              T
+
+
+VIDEO MAP LIST (Mnemonic)
+0 = N90 JFK Full (JFK)
+1 = N90 LGA Full (LGA)
+2 = N90 EWR Full (EWR)
+3 = N90 LIB Full (LIB)
+4 = N90 ISP Full (ISP)
+5 = N90 SWF Full (SWF)
+6 = Airport Diagrams (ARPTS)
+7 = Geography (GEO)
+8 = Class B (CLASS B)
+9 = Minimum Vector Altitude (MVA) 
+10 = Coastal (COAST)
+11 = HELRNAV (HELRNAV)
+12 = JFK 4L/4R (JFK 4L/4R)
+13 = JFK 31L/R (JFK 31L/R)
+14 = JFK 13L/R (JFK 13L/R)
+15 = JFK 22L/R (JFK 22L/R)
+16 = JFK 22 Final (JFK 22F)
