@@ -1,1 +1,58 @@
 M03 = Memphis TRACON, Tennessee (Level 9)
+
+
+Position Logon Identifiers
+
+Name                      FREQ          Logon ID        Tag
+M03 Arrival East          125.800       1E              E   (Prim.)
+M03 Arrival West          119.100       1W              W
+M03 Departure East        124.150       1V              V   (Prim.)
+M03 Departure West        125.650       1A              A   
+M03 Final West            126.700       1F              F
+M03 Final East            120.925       1M              M
+M03 9/27 Final            126.055       1N              N 
+MEM Local 2               119.700       2T              T   (Prim.)
+MEM Local 1               128.425       1T              T
+MEM Local 3               118.300       3T              T
+MEM Ground 2              121.900       2T              T   (Prim.)
+MEM Ground 1              121.650       1T              T
+
+
+VIDEO MAP LIST (Mnemonic)
+1 = M03_NORTH (36L-36R)  
+2 = M03_SOUTH (18L-18R)  
+3 = M03_ARTCC BOUNDARY (ARTCC)  
+4 = M03_CLASS B AIRSPACE (BRAVO)  
+5 = M03_36C FINAL (36C)  
+6 = M03_18C FINAL (18C)  
+7 = M03_AWM (AWM)  
+8 = M03_9-27 FINAL BOXES (FMN)  
+9 = M03_EMERGENCY OBSTRUCTION (EOVM)  
+10 = M03_FINAL MONITOR (FME/W)  
+11 = M03_GPS APPROACHES (RNAV)  
+12 = M03_GPS NE (GPSNE)  
+13 = M03_GPS NW (GPSNW)  
+14 = M03_GPS SE (GPSSE)  
+15 = M03_GPS SW (GPSSW)  
+16 = MEM_ADW (ADW)  
+17 = M03_HELIPORTS (HELO)  
+18 = M03_IR ROUTES (IR)  
+19 = M03_JET AIRWAYS (JET)  
+20 = M03_MID STAR (STARM)  
+21 = M03_MVA (MVA)  
+22 = M03_NORTH STAR (STARN)  
+23 = M03_NQA (NQA)  
+24 = M03_OLV (OLV)  
+25 = M03_PRIVATE AIRPORTS (PVT)  
+26 = M03_RNAV DAY (SID)  
+27 = M03_RNAV MID (SIDM)  
+28 = M03_SATELLITE (SAT)  
+29 = M03_SOUTH STAR (STARS)  
+30 = M03_VICTOR AIRWAYS (VICTOR)  
+31 = M03_ZME HOLDING PROTECTION (HPPA)  
+32 = OLV_OLV ATCT (OLV OPS)  
+33 = OLV_OLV CLASS DELTA (CLASS D)  
+34 = M03_EAST PRACTICE AREA (EPA)  
+35 = M03_TWR CLASS B (TWRCLSB)  
+36 = M03_DP NORTH (DPNORTH)  
+37 = M03_DP SOUTH (DPSOUTH)
