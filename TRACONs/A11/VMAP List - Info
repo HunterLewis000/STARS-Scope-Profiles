@@ -1,1 +1,28 @@
 A11 = Anchorage TRACON, Alaska (Level 9)
+
+
+Position Logon Identifiers
+
+Name                      FREQ          Logon ID        Tag
+ANC_N_APP                 118.600       1N              N
+ANC_S_APP                 126.400       1S              S
+ANC_F_APP                 135.150       1F              F
+ANC_TWR                   118.300       1T              T
+MRI_TWR                   126.000       1M              M
+
+
+VIDEO MAP LIST (Mnemonic)
+1 = A11 RVM (RVM)  
+2 = A11 15 FEED (15 FEED)  
+3 = A11 15 FIN (15 FINAL)  
+4 = A11 25 STRAIGHT (25 STRGHT)  
+5 = A11 33 STRAIGHT (33 STRGHT)  
+6 = A11 7 FEED (7 FEED)  
+7 = A11 7 FINAL (7 FINAL)  
+8 = A11 ANC MVA (MVA)  
+9 = A11 ZAN SPLIT (ZAN SPLIT)  
+10 = A11 ARSP (ARSP)  
+11 = A11 GPS (GPS)  
+12 = A11 EVOM (EVOM)  
+13 = A11 GEO (GEO)  
+14 = A11 ARPT DIAG (ARPT DGRM)
